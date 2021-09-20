@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names_of_screens">
+        <item>Информация о ДМС</item>
+        <item>Сейчас</item>
+        <item>Уведомления</item>
+        <item>Отправить отзыв</item>
+        <item>Состояние колес</item>
+        <item>Связь</item>
+        <item>Ночной режим</item>
+        <item>Навигация</item>
+        <item>Вызвать эвакуатор</item>
+        <item>Профиль</item>
+        <item>Отчеты</item>
+        <item>Нарушения</item>
+        <item>Новостная лента</item>
+        <item>Прочитать подорожник</item>
+        <item>Считать штрихкод</item>
+        <item>О приложении</item>
+    </string-array>
+
+</resources>
