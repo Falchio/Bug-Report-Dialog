@@ -4,7 +4,6 @@ import android.app.Dialog
 import android.content.ActivityNotFoundException
 import android.content.Context
 import android.content.Intent
-import android.graphics.ColorFilter
 import android.net.Uri
 import android.os.Bundle
 import android.os.CountDownTimer
@@ -128,10 +127,9 @@ class BugReportDialog(context: Context) : Dialog(context) {
 
         override fun onNothingSelected(parent: AdapterView<*>?) {
         }
-
     }
 
-    private class BugReport() {
+    private class BugReport {
         var screen = ""
         var expected = ""
         var actual = ""
